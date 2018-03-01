@@ -1,0 +1,17 @@
+28 fev 2018
+Usando pgadmin3
+pgsql:
+name: log-analysis
+host: 127.0.0.1
+port: 543
+service:
+Maintenance DB: postgres
+username: log-analysis
+password: pedroalv
+group: Servers
+
+
+--------------
+username: news
+name: news
+passowrd: news
